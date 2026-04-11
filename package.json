@@ -1,0 +1,31 @@
+{
+  "name": "prueba-webhook",
+  "version": "1.0.0",
+  "description": "Segunda prueba Segunda prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinochet01/prueba-webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pinochet01/prueba-webhook/issues"
+  },
+  "homepage": "https://github.com/Pinochet01/prueba-webhook#readme",
+  "dependencies": {
+    "axios": "^1.15.0",
+    "discord.js": "^14.26.2",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "ngrok": "^5.0.0-beta.2",
+    "node-fetch": "^2.7.0",
+    "telegraf": "^4.16.3",
+    "ws": "^8.20.0"
+  }
+}
